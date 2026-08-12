@@ -10,7 +10,7 @@ public:
                 m[nums[i]]--;
                 i++;
             }
-            res = max(res, j - i - 1);
+            res = max(res, j - i + 1);
             j++;
         }
         return res;
