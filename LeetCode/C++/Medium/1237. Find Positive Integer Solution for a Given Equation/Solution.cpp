@@ -20,7 +20,7 @@ int check(CustomFunction& customfunction, int x, int z){
             if(val == z){
                 return mid;
             } else if (val < z) {
-                low = mid+1;
+                low = mid+;
             } else {
                 high = mid - 1;
             }
