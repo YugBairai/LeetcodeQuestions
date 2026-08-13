@@ -1,6 +1,6 @@
 # 📝 1237. Find Positive Integer Solution for a Given Equation (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)
+🔗 [Problem Link](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/?envType=problem-list-v2&envId=binary-search)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
