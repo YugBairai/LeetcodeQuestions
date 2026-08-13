@@ -18,6 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Math
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Two Pointers
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Interactive
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
