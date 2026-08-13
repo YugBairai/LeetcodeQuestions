@@ -8,7 +8,7 @@
 Math, Two Pointers, Binary Search, Interactive
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
