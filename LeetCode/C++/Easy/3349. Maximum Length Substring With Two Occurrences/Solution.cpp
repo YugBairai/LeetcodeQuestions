@@ -13,7 +13,7 @@ public:
             while (freq[s[i] - 'a'] > 2) {
                 freq[s[left] - 'a']--;
 
-                left+;
+                left++;
             }
 
             ans = max(ans, i - left + 1);
