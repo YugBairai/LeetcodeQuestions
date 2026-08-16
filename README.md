@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +42,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
