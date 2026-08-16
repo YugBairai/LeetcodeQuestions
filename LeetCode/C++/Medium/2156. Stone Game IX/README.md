@@ -8,7 +8,7 @@
 Array, Math, Greedy, Minimax, Counting, Game Theory, Nim Game, Zero-Sum Game
 
 ### 🚀 Performance
-- **Runtime:** 123 ms
+- **Runtime:** 9 ms
 - **Memory:** 131.1 MB
 
 ---
