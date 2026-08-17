@@ -12,7 +12,7 @@ public:
             if(mm<k){
                 l = m+1;
             }else{
-                h = m-1;
+                h = m;
             }
         }
 
