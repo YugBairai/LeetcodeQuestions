@@ -1,6 +1,6 @@
 # 📝 1539. Kth Missing Positive Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kth-missing-positive-number/solutions/7141606/kth-missing-positive-number-beats-100-by-rnyg/)
+🔗 [Problem Link](https://leetcode.com/problems/kth-missing-positive-number)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
