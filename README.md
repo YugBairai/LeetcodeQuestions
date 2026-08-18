@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0069-sqrtx) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0021-merge-two-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
