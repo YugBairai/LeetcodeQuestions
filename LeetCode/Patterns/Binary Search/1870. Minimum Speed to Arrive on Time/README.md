@@ -1,6 +1,6 @@
 # 📝 1870. Minimum Speed to Arrive on Time (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-speed-to-arrive-on-time)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
