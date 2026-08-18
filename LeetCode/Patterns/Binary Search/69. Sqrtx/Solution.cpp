@@ -1,21 +1,20 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        int l = 0;
-        int r = x;
+        int low = 0,high = x;
 
-        while (l <= r) {
-            int m = l + (r - l) / 2;
-            long long square = (long long)m * m;
+        while (low <= high) {
+            int m = low + (high - low) / 2;
+            long long sq = (long long)m * m;
 
-            if (square == x) {
+            if (sq == x) {
                 return m;
-            } else if (square < x) {
-                l = m + 1;
+            } else if (sq < x) {
+                low = m + 1;
             } else {
-                r = m - 1;
+                high = m - 1;
             }
         }
-        return r;
+        return high;
     }
 };
