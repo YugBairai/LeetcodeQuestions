@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0021-merge-two-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
