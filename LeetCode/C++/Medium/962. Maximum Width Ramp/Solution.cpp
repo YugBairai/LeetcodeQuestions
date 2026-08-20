@@ -1,25 +1,17 @@
 class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
-        
-        int diff = INT_MIN, res = INT_MIN;
-        int i=0,j=i+1;
 
-        while(i<j && i<size(nums)-1 && j<size(nums)){
+        int ans = 0;
 
-            if(nums[i]<=nums[j]){
-                diff = max(diff,nums[j]-nums[i]);
-                res =  max(res,j-i);
-            }
-
-            j++;
-
-            if(j>size(nums)){
-                i++;
-                j=i+1;
+        for (int i = 0; i < size(nums); i++) {
+            for (int j = i + 1; j < size(nums); j++) {
+                if(nums[i]<=nums[j]){
+                    ans = max(ans,j-i);
+                }
             }
         }
 
-        return res+2;
+        return ans;
     }
 };
