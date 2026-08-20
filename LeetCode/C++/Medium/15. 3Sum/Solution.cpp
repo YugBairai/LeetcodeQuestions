@@ -8,7 +8,8 @@ public:
 
         for(int i=0; i<size(nums)-2; i++)
         {
-            
+            if(i>0 && nums[i] == nums[i-1])
+            continue;
 
             int start=i+1, end = size(nums)-1;
 
