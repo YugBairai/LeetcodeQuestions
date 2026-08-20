@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
 
-        int ans = 0;
+        int ans = INT_M;
 
         for (int i = 0; i < size(nums); i++) {
             for (int j = i + 1; j < size(nums); j++) {
