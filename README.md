@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
