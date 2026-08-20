@@ -1,6 +1,6 @@
 # 📝 962. Maximum Width Ramp (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-width-ramp/solutions/)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-width-ramp/solutions/5893845/sortradix-sort-the-array-by-anwendeng-5jw2/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
