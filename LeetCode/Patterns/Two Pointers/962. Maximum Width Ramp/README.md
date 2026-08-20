@@ -1,6 +1,6 @@
 # 📝 962. Maximum Width Ramp (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-width-ramp)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-width-ramp/solutions/7586772/maximum-width-ramp-by-cwrn32neei-i991/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
