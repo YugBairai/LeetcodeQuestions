@@ -1,6 +1,6 @@
 # 📝 374. Guess Number Higher or Lower (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/guess-number-higher-or-lower)
+🔗 [Problem Link](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Binary Search, Interactive
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 7.9 MB
 
 ---
 
