@@ -1,6 +1,6 @@
 # 📝 442. Find All Duplicates in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array)
+🔗 [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 16 ms
+- **Memory:** 48.4 MB
 
 ---
 
