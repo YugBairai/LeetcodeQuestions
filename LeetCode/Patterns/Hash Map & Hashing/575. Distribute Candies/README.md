@@ -1,6 +1,6 @@
 # 📝 575. Distribute Candies (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/distribute-candies/?envType=problem-list-v2&envId=hash-table)
+🔗 [Problem Link](https://leetcode.com/problems/distribute-candies/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 28 ms
+- **Memory:** 85.4 MB
 
 ---
 
