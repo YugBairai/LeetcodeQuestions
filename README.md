@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0069-sqrtx) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -108,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
