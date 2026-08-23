@@ -7,6 +7,7 @@ public:
         for (int i = 0; i < n; i++) {
             freq[s[i] - 'a']++;
         }
+        
         int i = 0;
         int m = order.size();
         string ans = "";
