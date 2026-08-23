@@ -1,6 +1,6 @@
 # 📝 791. Custom Sort String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/custom-sort-string)
+🔗 [Problem Link](https://leetcode.com/problems/custom-sort-string/?envType=problem-list-v2&envId=hash-table)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
