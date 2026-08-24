@@ -1,6 +1,6 @@
 # 📝 43. Multiply Strings (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/multiply-strings/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/multiply-strings/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
