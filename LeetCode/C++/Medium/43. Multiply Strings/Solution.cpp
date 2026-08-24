@@ -1,18 +1,42 @@
 class Solution {
 public:
     string multiply(string num1, string num2) {
-        int n1 = stoi(num1), n2 = stoi(num2);
 
-        int ans = n1*n2;
-        string res = "";
+        if (num1 == "0" || num2 == "0")
+            return "0";
 
-        while(ans){
-            int d = ans%10;
-            res += d+'0';
-            ans/=10;
+        int n = num1.size();
+        int m = num2.size();
+
+        vector<int> res(n + m, 0);
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = m - 1; j >= 0; j--) {
+
+                int a = num1[i] - '0';
+                int b = num2[j] - '0';
+
+                int product = a * b;
+
+                int pos1 = i + j;
+                int pos2 = i + j + 1;
+
+                int sum = product + res[pos2];
+
+                res[pos2] = sum % 10;
+                res[pos1] += sum / 10;
+            }
         }
 
-        reverse(res.begin(),res.end());
-        return res;
+        string ans = "";
+
+        for (int x : res) {
+            if (ans.empty() && x == 0)
+                continue;
+
+            ans += x + '0';
+        }
+
+        return ans;
     }
 };
