@@ -4,8 +4,7 @@ public:
         
         vector<int>tmp;
 
-        for(int i=1; i<
-        =num/2; i++){
+        for(int i=1; i<=num/2; i++){
             if(num%i==0){
                 tmp.push_back(i);
             }
