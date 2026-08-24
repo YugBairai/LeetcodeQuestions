@@ -1,6 +1,6 @@
 # 📝 507. Perfect Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/perfect-number/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/perfect-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1037 ms
+- **Memory:** 8.3 MB
 
 ---
 
