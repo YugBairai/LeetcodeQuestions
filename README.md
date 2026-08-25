@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Greedy
 |  |
 | ------- |
