@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+| [2351-first-letter-to-appear-twice](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 ## Game Theory
 |  |
 | ------- |
@@ -117,4 +119,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
+| [2351-first-letter-to-appear-twice](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
