@@ -1,6 +1,6 @@
 # 📝 2405. Optimal Partition of String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/optimal-partition-of-string)
+🔗 [Problem Link](https://leetcode.com/problems/optimal-partition-of-string/?envType=problem-list-v2&envId=hash-table)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
