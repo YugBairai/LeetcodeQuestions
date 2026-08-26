@@ -5,7 +5,7 @@ public:
         int cnt=0;
         int freq[26] = {0};
 
-        if(s.size()<=3) return 0;
+        if(s.size()<3) return 0;
 
         for (int i = 0; i < s.size() - 2; i++) {
             for (int j = i + 1; j < s.size() - 1; j+=s.size()) {
