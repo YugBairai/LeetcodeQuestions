@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
