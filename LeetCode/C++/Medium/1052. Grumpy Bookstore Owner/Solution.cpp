@@ -11,10 +11,13 @@ public:
 
             for (int j = 0; j < n; j++) {
 
-                if (j >= i && j < i + minutes) {
+                if (grumpy[j] == 0) {
                     sum += customers[j];
                 }
-                else if (grumpy[j] == 0) {
+
+                // WRONG: only count customers at the start
+                // of the window instead of the whole window
+                if (j == i && grumpy[j] == 1) {
                     sum += customers[j];
                 }
             }
