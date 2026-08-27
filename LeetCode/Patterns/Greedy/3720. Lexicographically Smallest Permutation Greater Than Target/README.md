@@ -1,6 +1,6 @@
 # 📝 3720. Lexicographically Smallest Permutation Greater Than Target (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27)
+🔗 [Problem Link](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/solutions/?envType=daily-question&envId=2026-08-27)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
