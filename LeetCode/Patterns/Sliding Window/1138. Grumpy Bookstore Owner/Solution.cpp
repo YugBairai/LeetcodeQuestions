@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
-        
 
         int n = customers.size();
         int ans = 0;
@@ -15,8 +14,10 @@ public:
                 if (j >= i && j < i + minutes) {
                     sum += customers[j];
                 }
-                else if (grumpy[j] == 0) {
-                    sum += customers[j];
+                else {
+                    if (grumpy[j] == 0) {
+                        sum += customers[j];
+                    }
                 }
             }
 
