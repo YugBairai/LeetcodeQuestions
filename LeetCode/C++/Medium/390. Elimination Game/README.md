@@ -1,6 +1,6 @@
 # 📝 390. Elimination Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/elimination-game/?envType=problem-list-v2&envId=recursion)
+🔗 [Problem Link](https://leetcode.com/problems/elimination-game/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
