@@ -23,26 +23,24 @@ public:
 
         //using sliding window
 
-        int leng=0;
-        vector<bool>freq(256,0);
-        int i=0,j=0;
+        int freq[256] = {0};
+        int l = 0;
 
+        int ans = 0;
 
-        while(j<s.size())
-        {
-            while(freq[s[j]])
-            {
-                freq[s[i]] = 0;
-                i++;
+        for(int i=0; i<s.size(); i++){
+
+            freq[s[i]]++;
+
+            while(freq[s[i]]>1){
+                freq[s[l]]--;
+                l++;
             }
-            freq[s[j]] = 1;
 
-            leng = max(leng,j-i+1);
-            j++;
+            ans  = max(ans,i-l+1);
         }
 
-        return leng;
-
+        return ans;
 
        
     }
