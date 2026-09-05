@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-
+ 
         if (s1.size() > s2.size()) return false;
 
         int freq1[26] = {0};
@@ -42,8 +42,7 @@ public:
                 }
             }
 
-            if (same)
-                return true;
+            if (same) return true;
         }
 
         return false;
