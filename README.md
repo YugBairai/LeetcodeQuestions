@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0413-arithmetic-slices](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0413-arithmetic-slices](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
