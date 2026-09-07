@@ -1,6 +1,6 @@
 # 📝 413. Arithmetic Slices (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/arithmetic-slices/?envType=problem-list-v2&envId=sliding-window)
+🔗 [Problem Link](https://leetcode.com/problems/arithmetic-slices/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 10.9 MB
 
 ---
 
