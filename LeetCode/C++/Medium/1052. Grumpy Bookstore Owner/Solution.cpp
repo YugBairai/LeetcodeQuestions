@@ -3,28 +3,20 @@ public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
 
         int n = customers.size();
-        int ans = 0;
+        int x = n-minutes;
 
-        for (int i = 0; i <= n - minutes; i++) {
+        int sum = 0;
 
-            int sum = 0;
-
-            for (int j = 0; j < n; j++) {
-
-                if (grumpy[j] == 0) {
-                    sum += customers[j];
-                }
-
-                // WRONG: only count customers at the start
-                // of the window instead of the whole window
-                if (j == i && grumpy[j] == 1) {
-                    sum += customers[j];
-                }
-            }
-
-            ans = max(ans, sum);
+        for(int i=x; i<customers.size(); i++){
+            sum+=customers[i];
         }
 
-        return ans;
+        for(int i=0; i<x; i++){
+            if(grumpy[i]==0){
+                sum+=customers[i];
+            }
+        }
+
+        return sum;
     }
 };
