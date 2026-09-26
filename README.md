@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -118,13 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
