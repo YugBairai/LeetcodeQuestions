@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -186,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
