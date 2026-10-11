@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0135-candy) |
 | [0413-arithmetic-slices](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
