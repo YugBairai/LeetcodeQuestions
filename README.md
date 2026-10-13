@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
