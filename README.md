@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0328-odd-even-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YugBairai/LeetcodeQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -176,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Lifting
