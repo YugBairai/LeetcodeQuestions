@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0513-find-bottom-left-tree-value) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -187,17 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0513-find-bottom-left-tree-value) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0513-find-bottom-left-tree-value) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/YugBairai/LeetcodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Lifting
 |  |
