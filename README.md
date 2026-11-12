@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/YugBairai/LeetcodeQuestions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YugBairai/LeetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
